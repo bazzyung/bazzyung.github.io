@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Pecita';
+  src: url('Pecita.eot');
+  src: url('Pecita.eot?#iefix') format('embedded-opentype'),
+       url('Pecita.svg#Pecita') format('svg'),
+       url('Pecita.ttf') format('truetype'),
+       url('Pecita.woff') format('woff'),
+       url('Pecita.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.nav_title {
+  font-family: 'Pecita';
+  font-weight: bold;
+  font-size: 40px;
+}
